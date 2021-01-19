@@ -31,4 +31,4 @@ terraform apply
 ```
 
 
-This repo is used as the source code for [this](https://lebureau.dev/deploying-ghost-3-0-to-aws-using-ec2-auto-scaling-rds-and-terraform-pt-1/) complete tutorial..
+This repo is used as the source code for [this](https://lebureau.dev/deploying-ghost-3-0-to-aws-using-ec2-auto-scaling-rds-and-terraform-pt-1/) complete tutorial
